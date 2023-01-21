@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/online-store/static/css/main.ad86ad7b.css",
+    "main.js": "/online-store/static/js/main.85a35d47.js",
+    "static/media/e-commerce.jpg": "/online-store/static/media/e-commerce.70d8cf656fc66c06405f.jpg",
+    "static/media/trybe.png": "/online-store/static/media/trybe.4b9d4208c20b8a9df2ce.png",
+    "index.html": "/online-store/index.html",
+    "main.ad86ad7b.css.map": "/online-store/static/css/main.ad86ad7b.css.map",
+    "main.85a35d47.js.map": "/online-store/static/js/main.85a35d47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad86ad7b.css",
+    "static/js/main.85a35d47.js"
+  ]
+}
